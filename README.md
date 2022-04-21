@@ -10,4 +10,4 @@ Recording the correct answer and store an associating list of Q-A in JSON file.
 
 Includes multiple error handling.
 
-https://user-images.githubusercontent.com/73574414/164354260-3a3862b4-7970-4ca0-aaf7-77e8da3397bf.mp4
+https://github.com/yxyyeah/Self-Learning-Multiple-Choice-Solver/blob/main/multiple-choice%20solver/preview.mp4
