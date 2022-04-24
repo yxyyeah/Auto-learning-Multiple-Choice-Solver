@@ -1,4 +1,4 @@
-# Self-Learning-Multiple-Choice-Solver
+# Auto-Learning-Multiple-Choice-Solver
 
 Capturing questions and their correct answer from a question pool, and answer correctly if encounters them again.
 
@@ -12,4 +12,4 @@ Includes multiple error handling.
 
 
 
-https://user-images.githubusercontent.com/73574414/164357454-7c5f30a0-149d-4556-9557-f62984418c52.mp4
+https://user-images.githubusercontent.com/73574414/164982302-962d0a22-e67a-4827-a843-adc6d045bd25.mp4
